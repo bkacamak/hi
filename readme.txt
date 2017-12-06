@@ -1,5 +1,2 @@
-hello git
-hello again
-updating
-share
-feature2
+feature2 changes
+feature2 changes more
