@@ -6,5 +6,9 @@ updating
 share
 deneme
 deneme2
+<<<<<<< HEAD
 
 deneme4
+=======
+deneme3
+>>>>>>> org
